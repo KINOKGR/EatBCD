@@ -14,4 +14,4 @@
 
 小游戏：吃掉逼厕东|EatBCD
 
-[English](README_EN.md)
+内部开发，严禁外传！！
